@@ -17570,10 +17570,10 @@ label {
   min-width: 100%;
 }
 
-.container .video{
-  width:100%;
-  min-height:200px;
-}
+  .container .video{
+    width: 100%;
+    min-height: 200px;
+ }
 
 .bg-holder .bg-youtube {
   position: absolute !important;
@@ -17582,6 +17582,7 @@ label {
   height: 100%;
   width: 100%;
 }
+
 
 .bg-light-gradient {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(236, 240, 253, 0)), color-stop(14.32%, rgba(236, 240, 253, 0.53)), color-stop(45.83%, #ECF0FD), color-stop(84.33%, rgba(236, 240, 253, 0.43)), to(rgba(236, 240, 253, 0)));
