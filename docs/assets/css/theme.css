@@ -17570,6 +17570,11 @@ label {
   min-width: 100%;
 }
 
+.container .video{
+  width:100%;
+  min-height:200px;
+}
+
 .bg-holder .bg-youtube {
   position: absolute !important;
   top: 0;
